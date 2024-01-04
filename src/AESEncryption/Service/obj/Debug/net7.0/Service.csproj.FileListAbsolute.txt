@@ -1,0 +1,12 @@
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\bin\Debug\net7.0\Service.deps.json
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\bin\Debug\net7.0\Service.dll
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\bin\Debug\net7.0\Service.pdb
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\obj\Debug\net7.0\Service.dll
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\obj\Debug\net7.0\refint\Service.dll
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\obj\Debug\net7.0\Service.pdb
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Service\obj\Debug\net7.0\ref\Service.dll

@@ -1,0 +1,10 @@
+D:\myProjects\KafkaServiceSample\src\AESEncryption\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\myProjects\KafkaServiceSample\src\AESEncryption\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\myProjects\KafkaServiceSample\src\AESEncryption\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\myProjects\KafkaServiceSample\src\AESEncryption\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\myProjects\KafkaServiceSample\src\AESEncryption\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\myProjects\AESEncryptionSample\src\AESEncryption\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
