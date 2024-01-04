@@ -1,2 +1,2 @@
-# AES Encryption Sample
-A simple .NET 7 console application with AES encryption and decryption
+# Symmetric encryption using AES(Advanced Encryption Standard)
+A simple C# .NET 7 console application with AES encryption and decryption
