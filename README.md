@@ -1,2 +1,2 @@
 # Symmetric encryption using AES(Advanced Encryption Standard)
-A simple C# .NET 7 console application with AES encryption and decryption
+ - Run encryption and save the key, iv, and cipher text on a note before running decryption as you will need them.
