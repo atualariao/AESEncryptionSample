@@ -1,2 +1,2 @@
-# KafkaServiceSample
-Run Kafka docker server for local machine with producer and consumer projects
+# AES Encryption Sample
+A .NET 7 console application with AES encryption
